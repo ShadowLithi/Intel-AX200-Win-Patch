@@ -14,6 +14,7 @@ Band-Aid patch for a severe Intel AX100 driver bug where it crashes after Window
 * On the **General** tab
    * Name it something relevant like "Bluetooth Sleep Check"
    * Add a description for your future self to read if you want
+   * Set user to `NT-AUTHORITY\SYSTEM`
    * Make sure "**Run with highest privileges**" is checked
    * Switch "**Configure for**" to your Windows version, or highest available
 * On the **Triggers** tab
