@@ -5,7 +5,7 @@ Band-Aid patch for a severe Intel AX100 driver bug where it crashes after Window
 
 # Installation
 
-* Find a permanent place in your computer for the .ps1 script and move it there. I recommend creating a folder in your root directory. IE: **C:\Scripts\**
+* Find a permanent place in your computer for the .ps1 script and move it there. I recommend creating a folder in your root directory. IE: **`C:\Scripts\`**
 * Open the Start Menu and search "**Task Scheduler**" and open it
    * Or you can find it in the **Windows** **Administrative Tools** folder in the Start Menu
    * Or you could press Win+R and type "**taskschd.msc**"
